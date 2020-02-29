@@ -1,0 +1,9 @@
+{
+  "events": {
+    "cron": {
+      "start": "00 00 ? * MON-FRI *",
+      "stop": "00 11 ? * * *",
+      "notice": "45 10 ? * MON-FRI *"
+    }
+  }
+}
